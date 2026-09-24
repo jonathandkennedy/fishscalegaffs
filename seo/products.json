@@ -1,0 +1,354 @@
+[
+ {
+  "id": "gid://shopify/Product/10699624546616",
+  "handle": "shaka-stick-tuna-spike-5-16-diameter-4-5-length",
+  "title": "SHAKA STICK TUNA SPIKE Teal/Black/White",
+  "min": "94.99"
+ },
+ {
+  "id": "gid://shopify/Product/10701665730872",
+  "handle": "niho-mano-tuna-spike-5-16-diameter-4-5-length",
+  "title": "NIHO MANO TUNA SPIKE Brown/Tan/White",
+  "min": "94.99"
+ },
+ {
+  "id": "gid://shopify/Product/10701669859640",
+  "handle": "vaya-con-dios-tuna-spike-1-4-diameter-4-length",
+  "title": "VAYA CON DIOS TUNA SPIKE Black/Grey/White",
+  "min": "94.99"
+ },
+ {
+  "id": "gid://shopify/Product/10701678838072",
+  "handle": "local-legend-tuna-spike-1-4-diameter-4-length",
+  "title": "LOCAL LEGEND TUNA SPIKE Tan/White",
+  "min": "94.99"
+ },
+ {
+  "id": "gid://shopify/Product/10701699580216",
+  "handle": "la-bruja-del-mar-tuna-spike-aqua-green-purple-1-4-diameter-4-length",
+  "title": "LA BRUJA DEL MAR TUNA SPIKE Aqua/Green/Purple",
+  "min": "94.99"
+ },
+ {
+  "id": "gid://shopify/Product/10701727727928",
+  "handle": "high-seas-drifter-tuna-spike-aqua-blue-black-1-4-diameter-4-length-copy",
+  "title": "HIGH SEAS DRIFTER TUNA SPIKE Aqua/Blue/Black",
+  "min": "94.99"
+ },
+ {
+  "id": "gid://shopify/Product/10701734052152",
+  "handle": "fish-machine-tuna-spike-orange-black-5-16-diameter-4-5-length",
+  "title": "FISH MACHINE TUNA SPIKE Orange/Black",
+  "min": "94.99"
+ },
+ {
+  "id": "gid://shopify/Product/10701749059896",
+  "handle": "patriot-tuna-spike-red-white-blue-5-16-diameter-4-5-length",
+  "title": "PATRIOT TUNA SPIKE Red/White/Blue",
+  "min": "94.99"
+ },
+ {
+  "id": "gid://shopify/Product/10701770293560",
+  "handle": "slob-stick-tuna-spike-neon-green-purple-1-4-diameter-4-length-copy",
+  "title": "SLOB STICK TUNA SPIKE Neon Green/Purple",
+  "min": "94.99"
+ },
+ {
+  "id": "gid://shopify/Product/10701782614328",
+  "handle": "offshore-original-tuna-spike-tan-black-3-8-diameter-5-length",
+  "title": "OFFSHORE ORIGINAL TUNA SPIKE Tan/Black",
+  "min": "94.99"
+ },
+ {
+  "id": "gid://shopify/Product/10701791723832",
+  "handle": "mexicutioner-tuna-spike-green-white-red-5-16-diameter-4-5-length",
+  "title": "MEXICUTIONER TUNA SPIKE Green/White/Red",
+  "min": "94.99"
+ },
+ {
+  "id": "gid://shopify/Product/10701808992568",
+  "handle": "ganja-tuna-spike-green-gold-red-black-5-16-diameter-4-5-length",
+  "title": "GANJA TUNA SPIKE Green/Gold/Red/Black",
+  "min": "94.99"
+ },
+ {
+  "id": "gid://shopify/Product/10702067138872",
+  "handle": "pineapple-cyco-fish-gaff-gold-yellow-green",
+  "title": "PINEAPPLE CYCO CALCUTTA GAFF Gold/Yellow/Green",
+  "min": "149.99",
+  "finish": "Zombie Green",
+  "ti": "titanium with gold anodizing"
+ },
+ {
+  "id": "gid://shopify/Product/10703458763064",
+  "handle": "ganja-gaff-calcutta-gaff-green-gold-red-black",
+  "title": "GANJA GAFF CALCUTTA GAFF Green/Gold/Red/Black",
+  "min": "149.99",
+  "finish": "Pale Gold",
+  "ti": "titanium with gold anodizing"
+ },
+ {
+  "id": "gid://shopify/Product/10703464759608",
+  "handle": "the-white-calcutta-gaff-grey-white",
+  "title": "THE WHITE CALCUTTA GAFF Grey/White",
+  "min": "149.99",
+  "finish": "Luster White",
+  "ti": "polished titanium"
+ },
+ {
+  "id": "gid://shopify/Product/10703476785464",
+  "handle": "the-white-calcutta-gaff-grey-white-copy",
+  "title": "SHAKA STICK CALCUTTA GAFF Teal/Black/White",
+  "min": "149.99",
+  "finish": "Smoked Steel",
+  "ti": "polished titanium"
+ },
+ {
+  "id": "gid://shopify/Product/10703670935864",
+  "handle": "pineapple-cyco-calcutta-deck-brush-green-gold-yellow",
+  "title": "PINEAPPLE CYCO CALCUTTA DECK BRUSH Green/Gold/Yellow",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10703671460152",
+  "handle": "shaka-stick-calcutta-deck-brush-teal-black-white",
+  "title": "SHAKA STICK CALCUTTA DECK BRUSH Teal/Black/White",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10703672901944",
+  "handle": "local-legend-calcutta-deck-brush-tan-white",
+  "title": "LOCAL LEGEND CALCUTTA DECK BRUSH Tan/White",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10703673819448",
+  "handle": "blodfest-calcutta-deck-brush-red-burgandy-black-white",
+  "title": "BLODFEST CALCUTTA DECK BRUSH Red/Burgundy/Black/White",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10703675326776",
+  "handle": "ganja-calcutta-deck-brush-green-gold-red-black",
+  "title": "GANJA CALCUTTA DECK BRUSH Green/Gold/Red/Black",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10703676932408",
+  "handle": "fish-machine-calcutta-deck-brush-orange-black",
+  "title": "FISH MACHINE CALCUTTA DECK BRUSH Orange/Black",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10703677718840",
+  "handle": "vaya-con-dios-calcutta-deck-brush-black-grey-white",
+  "title": "VAYA CON DIOS CALCUTTA DECK BRUSH Black/Grey/White",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10703678931256",
+  "handle": "slob-stick-calcutta-deck-brush-neon-green-purple",
+  "title": "SLOB STICK CALCUTTA DECK BRUSH Neon Green/Purple",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10705105223992",
+  "handle": "offshore-original-calcutta-deck-brush-tan-black",
+  "title": "OFFSHORE ORIGINAL CALCUTTA DECK BRUSH Tan/Black",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10705107288376",
+  "handle": "death-stick-calcutta-deck-brush-black-black",
+  "title": "DEATH STICK CALCUTTA DECK BRUSH Black/Black",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10705108173112",
+  "handle": "the-white-calcutta-deck-brush-grey-white",
+  "title": "THE WHITE CALCUTTA DECK BRUSH Grey/White",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10705268539704",
+  "handle": "local-legend-calcutta-gaff-tan-white",
+  "title": "LOCAL LEGEND CALCUTTA GAFF Tan/White",
+  "min": "149.99",
+  "finish": "Dull Brass",
+  "ti": "titanium with gold anodizing"
+ },
+ {
+  "id": "gid://shopify/Product/10705352819000",
+  "handle": "offshore-original-calcutta-gaff-tan-black",
+  "title": "OFFSHORE ORIGINAL CALCUTTA GAFF Tan/Black",
+  "min": "149.99",
+  "finish": "Dull Brass",
+  "ti": "titanium with gold anodizing"
+ },
+ {
+  "id": "gid://shopify/Product/10705420026168",
+  "handle": "slob-stick-calcutta-gaff-neon-green-purple",
+  "title": "SLOB STICK CALCUTTA GAFF Neon Green/Purple",
+  "min": "149.99",
+  "finish": "Zombie Green",
+  "ti": "polished titanium"
+ },
+ {
+  "id": "gid://shopify/Product/10705560043832",
+  "handle": "death-stick-calcutta-gaff-black-black",
+  "title": "DEATH STICK CALCUTTA GAFF Black/Black",
+  "min": "149.99",
+  "finish": "Smoked Steel",
+  "ti": "titanium with gold anodizing"
+ },
+ {
+  "id": "gid://shopify/Product/10706803884344",
+  "handle": "patriot-calcutta-gaff-red-white-blue-1",
+  "title": "PATRIOT CALCUTTA GAFF Red/White/Blue",
+  "min": "179.00",
+  "finish": "Pale Gold",
+  "ti": "titanium with gold anodizing"
+ },
+ {
+  "id": "gid://shopify/Product/10706921816376",
+  "handle": "mexicutioner-calcutta-gaff-green-white-red",
+  "title": "MEXICUTIONER CALCUTTA GAFF Green/White/Red",
+  "min": "179.00",
+  "finish": "Pale Gold",
+  "ti": "titanium with gold anodizing"
+ },
+ {
+  "id": "gid://shopify/Product/10706925912376",
+  "handle": "fish-machine-calcutta-gaff-orange-black",
+  "title": "FISH MACHINE CALCUTTA GAFF Orange/Black",
+  "min": "149.99",
+  "finish": "Smoked Steel",
+  "ti": "titanium with brass anodizing"
+ },
+ {
+  "id": "gid://shopify/Product/10706926371128",
+  "handle": "blodfest-calcutta-gaff-red-burgandy-black-white",
+  "title": "BLODFEST CALCUTTA GAFF Red/Burgundy/Black/White",
+  "min": "149.99",
+  "finish": "Dull Brass",
+  "ti": "titanium with gold anodizing"
+ },
+ {
+  "id": "gid://shopify/Product/10706942132536",
+  "handle": "la-bruja-del-mar-calcutta-gaff-green-purple-aqua",
+  "title": "LA BRUJA DEL MAR CALCUTTA GAFF Green/Purple/Aqua",
+  "min": "149.99",
+  "finish": "Dull Brass",
+  "ti": "titanium with gold anodizing"
+ },
+ {
+  "id": "gid://shopify/Product/10785740194104",
+  "handle": "niho-mano-calcutta-gaff-brown-tan-white",
+  "title": "NIHO MANO CALCUTTA GAFF Brown/Tan/White",
+  "min": "179.00",
+  "finish": "Luster White",
+  "ti": "polished titanium"
+ },
+ {
+  "id": "gid://shopify/Product/10708795719992",
+  "handle": "calcutta-pick-gaff-teal-black-white",
+  "title": "CALCUTTA PICK GAFF Teal/Black/White",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10708795916600",
+  "handle": "calcutta-pick-gaff-orange-black",
+  "title": "CALCUTTA PICK GAFF Orange/Black",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10708796309816",
+  "handle": "calcutta-pick-gaff-orange-black-copy",
+  "title": "CALCUTTA PICK GAFF Neon Green/Purple",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10708796703032",
+  "handle": "calcutta-pick-gaff-grey-black-white",
+  "title": "CALCUTTA PICK GAFF Grey/Black/White",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10708797030712",
+  "handle": "calcutta-pick-gaff-black-black",
+  "title": "CALCUTTA PICK GAFF Black/Black",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10708797194552",
+  "handle": "calcutta-pick-gaff-black-tan",
+  "title": "CALCUTTA PICK GAFF Black/Tan",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10708797358392",
+  "handle": "calcutta-pick-gaff-green-gold-yellow",
+  "title": "CALCUTTA PICK GAFF Green/Gold/Yellow",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10708797456696",
+  "handle": "calcutta-pick-gaff-tan-white",
+  "title": "CALCUTTA PICK GAFF Tan/White",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10708797620536",
+  "handle": "calcutta-pick-gaff-grey-white",
+  "title": "CALCUTTA PICK GAFF Grey/White",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10708797751608",
+  "handle": "calcutta-pick-gaff-red-white-blue",
+  "title": "CALCUTTA PICK GAFF Red/White/Blue",
+  "min": "179.99"
+ },
+ {
+  "id": "gid://shopify/Product/10712654872888",
+  "handle": "custom-gaff-builder",
+  "title": "CUSTOM GAFF BUILDER",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10713873318200",
+  "handle": "custom-brush-builder",
+  "title": "CUSTOM DECK BRUSH BUILDER",
+  "min": "149.99"
+ },
+ {
+  "id": "gid://shopify/Product/10713892389176",
+  "handle": "custom-bait-net-builder",
+  "title": "CUSTOM BAIT NET BUILDER",
+  "min": "119.99"
+ },
+ {
+  "id": "gid://shopify/Product/10802127995192",
+  "handle": "custom-bait-net-builder-copy",
+  "title": "CUSTOM TUNA SPIKE (IKE JIME) BUILDER",
+  "min": "94.99"
+ },
+ {
+  "id": "gid://shopify/Product/10716245524792",
+  "handle": "fish-machine-tee",
+  "title": "FISH MACHINE TEE",
+  "min": "19.99"
+ },
+ {
+  "id": "gid://shopify/Product/10716245721400",
+  "handle": "the-white-tee",
+  "title": "THE WHITE TEE",
+  "min": "19.99"
+ },
+ {
+  "id": "gid://shopify/Product/10716246311224",
+  "handle": "death-stick-tee",
+  "title": "DEATH STICK TEE",
+  "min": "19.99"
+ }
+]
